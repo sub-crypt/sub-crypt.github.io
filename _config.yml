@@ -20,7 +20,6 @@ email: aabh4s@protonmail.com
 baseurl: "/" # the subpath of your site
 url: "subcrypt.xyz" # the base hostname & protocol for your site
 github_username:  sub-crypt
-email: aabh4s@protonmail.com
 favicon: favicon.ico
 
 font-size: large
