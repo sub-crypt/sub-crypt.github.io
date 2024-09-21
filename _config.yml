@@ -1,0 +1,25 @@
+# Example Site settings
+
+#google_analytics: UA-NNNNNNNN-N
+
+header_pages:
+ - index.md
+ - about.md
+ - contact.md
+
+#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+style: dark # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
+
+title: /home/subcrypt
+email: aabh4s@protonmail.com
+baseurl: "/" # the subpath of your site
+url: "subcrypt.xyz" # the base hostname & protocol for your site
+github_username:  sub-crypt
+favicon: favicon.ico
+
+font-size: large
