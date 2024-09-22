@@ -4,7 +4,7 @@ layout: default
 permalink: /contact
 ---
 
-### | contact
+### /contact
 
 With regard to any sort of contact pls contact me through mail.
 
