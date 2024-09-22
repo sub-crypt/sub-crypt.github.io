@@ -1,6 +1,6 @@
 ---
 title:  /home
-layout: page
+layout: default
 permalink: /
 ---
 
