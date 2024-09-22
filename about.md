@@ -12,7 +12,7 @@ I do be dabbling into a little bit of *everything* :3
 
 I am interested in defensive security, low-level languages and OSINT.
 
-Be sure to check out my [github](https://github.com/sub-crypt) for my upcoming projects, or my [blog](index) for some conceptual writeups!
+Be sure to check out my [github](https://github.com/sub-crypt) for my upcoming projects, or my blog for some conceptual writeups!
 
 ### | linux
 I enjoy exploring the inner workings of computers and I dual boot windows + debian. I love that Linux is open source 
