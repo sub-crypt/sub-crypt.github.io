@@ -4,7 +4,7 @@ layout: default
 permalink: /about
 ---
 
-###  /about
+### /about
 
 Wassup! My name is Sub-crypt, I'm a student, hacker(*ethical ofc >_<*) and a video editor
 
