@@ -1,0 +1,48 @@
+---
+title: "Zero Trust Architecture"
+layout: post
+date: 2024-10-09 22:48
+#image: /assets/images/.jpg
+headerImage: false
+tag:
+- concept
+- cybersecurity
+category: blog
+author: sub-crypt
+description: explanation of ZTA. 
+---
+Zero Trust Architecture (ZTA) is basically a security concept on the approach of "never trust, always verify." which does sound a little paranoid but it runs in direct contrast with traditional security models, which are continuously monitored and adjusted based on risk.
+<h2> Principles of Zero Trust Architecture </h2>
+
+> \- *Never trust. Always verify*
+
+ every access attempt(i mean every) is scrutinized to confirm that it is legitimate, access is only provided through rigorous authentication and authorization checks, which are continuously monitored and adjusted according to risk(can be taken down if sus)no trust is given by default, every single access attempt is considered risky. 
+
+> -*Least Privilege*
+
+ in order to minimise the risks of data leaks and exposure, the amount of access given is limited to its specific need to perform the task or function typically, permissions are based on the role of a user or device, with the necessary rights granted to provide access to what they are authorized to use and can be taken anytime away if suspicious activites are made.
+
+> -*Assume Breach*
+
+ systems are designed to limit an attacker’s ability to move laterally within the network during a breach by employing techniques like micro-segmentation and least privilege access, the continuously moderation for suspicious behavior or anomalies that may indicate a breach, enabling early detection hence the response, and also adding multiple security of defense in depth.
+
+ <h2> Components of Zero Trust Architecture </h2>
+
+strong authentication are applied for users and devices(e.g., multi-factor authentication), minimal permissions being granted to minimize the risk, isolating parts of the network to limit lateral movement, while tracking ongoing behavior for anomalies.. dynamic access controlling of context/data, encrypting data in transit and at rest.. finally, the evaluation device security before granting access.   
+
+<h2> Zero Trust Architecture Advantages </h2>
+
+this security concept enhances security by verifying every access request, minimizing attack surfaces, protecting against insider threats, improving threat detection, adapting in real time, supporting compliance, and limiting lateral movement to reduce breach impact.
+
+
+<h2> Challenges in Implementing Zero Trust Architecture </h2>
+
+ well, implementing Zero Trust Architecture presents challenges such as complexity in deployment, integration with existing systems, the need for comprehensive identity management,high costing, potential performance impacts, and user resistance to stricter access controls.
+
+<h3>Real World Applications of Zero Trust</h3>
+
+ *Google's* *BeyondCorp*,  *Financial* *Sectors*, 
+*Healthcare*
+
+Zero Trust is applied in healthcare to protect patient data, in finance to secure transactions, in remote work to ensure continuous verification, and in cloud services to enforce strict access controls, all enhancing data protection across various industries.
+![summary](/assets/images/img-4.png)
