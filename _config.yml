@@ -20,7 +20,7 @@ dark-theme: auto
 #resume-external: false 
 #resume-url: https://google.com/?q=my+resume
 
-url: https://subcrypt.github.io/
+url: https://sub-crypt.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ github: mygithub
 email: myemail@gmail.com
 
 authors:
-  johndoe:
+  subcrypt:
     name: subcrypt
     bio: diving in depths of cyber realm
     external-image: false
