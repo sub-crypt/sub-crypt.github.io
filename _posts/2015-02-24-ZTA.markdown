@@ -14,17 +14,17 @@ description: explanation of ZTA.
 Zero Trust Architecture (ZTA) is basically a security concept on the approach of "never trust, always verify." which does sound a little paranoid but it runs in direct contrast with traditional security models, which are continuously monitored and adjusted based on risk.
 <h2> Principles of Zero Trust Architecture </h2>
 
-> \- *Never trust. Always verify*
+    *Never trust. Always verify*
 
- every access attempt(i mean every) is scrutinized to confirm that it is legitimate, access is only provided through rigorous authentication and authorization checks, which are continuously monitored and adjusted according to risk(can be taken down if sus)no trust is given by default, every single access attempt is considered risky. 
+every access attempt(i mean every) is scrutinized to confirm that it is legitimate, access is only provided through rigorous authentication and authorization checks, which are continuously monitored and adjusted according to risk(can be taken down if sus)no trust is given by default, every single access attempt is considered risky. 
 
-> -*Least Privilege*
+    *Least Privilege*
 
- in order to minimise the risks of data leaks and exposure, the amount of access given is limited to its specific need to perform the task or function typically, permissions are based on the role of a user or device, with the necessary rights granted to provide access to what they are authorized to use and can be taken anytime away if suspicious activites are made.
+in order to minimise the risks of data leaks and exposure, the amount of access given is limited to its specific need to perform the task or function typically, permissions are based on the role of a user or device, with the necessary rights granted to provide access to what they are authorized to use and can be taken anytime away if suspicious activites are made.
 
-> -*Assume Breach*
+    *Assume Breach*
 
- systems are designed to limit an attacker’s ability to move laterally within the network during a breach by employing techniques like micro-segmentation and least privilege access, the continuously moderation for suspicious behavior or anomalies that may indicate a breach, enabling early detection hence the response, and also adding multiple security of defense in depth.
+systems are designed to limit an attacker’s ability to move laterally within the network during a breach by employing techniques like micro-segmentation and least privilege access, the continuously moderation for suspicious behavior or anomalies that may indicate a breach, enabling early detection hence the response, and also adding multiple security of defense in depth.
 
  <h2> Components of Zero Trust Architecture </h2>
 

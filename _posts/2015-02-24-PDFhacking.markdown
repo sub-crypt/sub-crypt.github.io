@@ -16,24 +16,24 @@ description: awareness about PDF exploitation.
 
 <h2>Here are some common ways hackers get viruses into PDFs :</h2>
 
-> **JavaScript Execution**
- embedding  javascript code
+<h3>JavaScript Execution</h3>
 
-hackers embed javascript code(malicious ones ofc) into a PDF file. When the victim opens the PDF using a vulnerable reader, like Adobe Acrobat, the javaacript runs and leads to the download or execution of malware or a virus.. this further infects the system and generally creates a backdoor.
+    embedding  javascript code
 
-> **Malware embed**
- hidden malicious files
+hackers embed javascript code(malicious ones ofc) into a PDF file. when the victim opens the PDF using a vulnerable reader, like Adobe Acrobat, the javaacript runs and leads to the download or execution of malware or a virus.. this further infects the system and generally creates a backdoor.
 
+<h3>Malware embed</h3>
+    hidden malicious files
 
 hackers tend to hide malicious files like executables or scripts within a PDF.. when a victim interacts with these embedded files, malware can be installed (crazy stuff) for reference, a PDF might include a ZIP file that, when opened, runs harmful scripts to gain access disguised as a legitimate document.
 
->**Malicious Hyperlinks**
- malicious links that seems legit 
+<h3>Malicious Hyperlinks**</h3>
+    malicious links that seems legit 
 
 hackers generally embed seemingly legitimate links in a PDF that actually redirect users to infected websites or trigger malware downloads.. the links may appear to provide useful information and actually legit but instead lead to phishing pages or install harmful software automatically.
 
->**Phising via PDF Forms**
- exactly what the name suggests (lol)
+<h3>Phising via PDF Forms</h3>
+    exactly what the name suggests (lol)
 
 
 well some PDFs include interactive forms for users to input personal information.. hackers can take advantage of this by designing malicious PDFs such that people are tricked into unknowingly sending their sensitive data to compromised servers.
